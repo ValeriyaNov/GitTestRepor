@@ -45,7 +45,7 @@ public class Task1 {
             ans = anss;
             
             
-            } while (ans == ff);
+            } while (ans != ff);
 
             System.out.println("Спасибо, что были с нами)))");
             
