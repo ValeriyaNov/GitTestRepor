@@ -50,7 +50,7 @@ public class Task1 {
             System.out.println("Спасибо, что были с нами)))");
             
             iScanner.close();
-            iScanner.close();
+            
     }
     }
 
