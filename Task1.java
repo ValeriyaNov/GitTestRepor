@@ -47,10 +47,9 @@ public class Task1 {
             
             } while (ans != ff);
 
-            System.out.println(" Yfxfkj ");
+            System.out.println(" Конец ");
             
             iScanner.close();
-            
     }
     }
 
