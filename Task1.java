@@ -47,7 +47,7 @@ public class Task1 {
             
             } while (ans == ff);
 
-            System.out.println(" Yfxfkj ");
+            System.out.println("Спасибо, что были с нами)))");
             
             iScanner.close();
             
